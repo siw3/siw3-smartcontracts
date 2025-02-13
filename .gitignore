@@ -13,6 +13,6 @@ artifacts
 test
 ignition
 scripts/.openzeppelin
-
+hardhad.config.ts
 # macOS metadata
 .DS_Store
